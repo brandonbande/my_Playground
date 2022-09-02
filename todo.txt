@@ -1,0 +1,4 @@
+Receive Data from Open API
+Clean Data
+Translate Data ie temp to degrees celcius
+Tabulate or graph the data
